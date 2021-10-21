@@ -1,6 +1,7 @@
 # 12rulestolearntocode
 
 ### I frequently hear questions like **"What should they learn first?"** </br> **Which programming language is the most important to learn?** </br> **Which course and tutorials are the greatest to follow?** **Is it time for me to give up programming?** and a lot more... 
+
 </br>
 
 ### as well as expressions like </br> 
@@ -22,7 +23,9 @@ Take out some time, take a bottle of a water, keep your phones away ( unless you
 
 </br>
 
-### [Download book](https://github.com/whoissubedibibek/12rulestolearntocode/raw/main/Book/12rulestolearntocode.pdf) 
+### Direct download link :  [Download book](https://github.com/whoissubedibibek/12rulestolearntocode/raw/main/Book/12rulestolearntocode.pdf) 
+
+</br>
 
 ## If you liked, if this helped you this make sure to share among your friends who might be struggling with same questions. ❤
 ![Book Cover](./Readme_resources/12rulestolearntocode.png)
