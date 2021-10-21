@@ -20,6 +20,9 @@ _**Does it make sense to learn ( this technology )?**_
 ## Before Starting : 
 Take out some time, take a bottle of a water, keep your phones away ( unless you'll be reading on it ), pause the music, grab a note and pen, start reading this. 
 
+</br>
+
+### [Download book](https://github.com/whoissubedibibek/12rulestolearntocode/raw/main/Book/12rulestolearntocode.pdf) 
 
 ## If you liked, if this helped you this make sure to share among your friends who might be struggling with same questions. ❤
 ![Book Cover](./Readme_resources/12rulestolearntocode.png)
